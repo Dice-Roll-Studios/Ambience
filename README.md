@@ -1,6 +1,12 @@
 # Ambience v1.0.0
 Ambience is a ROBLOX studio plugin that enables game developers to save "presets" in module scripts which can be loaded later. Furthermore, Ambience offers a catalog of presets which can be viewed and loaded all in studio!
 
+# Usage
+
+## Generating a preset
+
+To generate a preset, press the "Generate Preset" button found under the Ambience section on your plugins tab. The first time you generate a preset, you may be asked to give the plugin script injection permissions. Don't worry! This is just so the plugin is able to write the preset table in a module script. After allowing the plugin to have script injection permissions, you'll find a module script named "Generated Preset" in the `AMBIENCE` folder in Server Storage.
+
 # Contribution
 
 Want to contribute a preset to Ambience's public library? Read the contribution guide in `CONTRIBUTE.md`.
