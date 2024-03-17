@@ -1,6 +1,8 @@
 # Ambience v1.0.0
 Ambience is a ROBLOX studio plugin that enables game developers to save "presets" in module scripts which can be loaded later. Furthermore, Ambience offers a catalog of presets which can be viewed and loaded all in studio!
 
+### **This project uses [Repr](https://devforum.roblox.com/t/repr-–-function-for-printing-tables/276575) to serialize and deserialize tables!**
+
 # Usage
 
 ## Generating a preset
